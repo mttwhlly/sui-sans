@@ -11,7 +11,7 @@ Sui Sans is a faithful digital recreation of the typography found on vintage San
 
 The typeface originates from my father's beloved Sansui stereo system, whose clean, geometric letterforms embodied the precision and craftsmanship of Japanese industrial design during the golden age of hi-fi audio.
 
-![Characters in Use](fox.jpg)
+![Characters in Use](fox.png)
 *Character samples and usage examples*
 
 ## Font Details
